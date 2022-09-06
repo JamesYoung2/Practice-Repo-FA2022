@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## James Young
 
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Analytic Geometry and Calculus 1
 
-- Course 2
+- Introduction to Computation and Programming
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Python for Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Chess
 
-- Thing 2
+- My grades
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- My cat, here is a picture of her <https://imgur.com/a/6tHccoD>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/06
